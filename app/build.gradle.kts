@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.antinna.testingnewandroidapi"
-    compileSdk = 35
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.antinna.testingnewandroidapi"
