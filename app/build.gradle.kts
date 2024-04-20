@@ -42,7 +42,7 @@ android {
         buildConfig = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.1"
+        kotlinCompilerExtensionVersion = "1.5.12" // support upto 1.9.23 kotlin version as we are using 1.5.12
     }
     packaging {
         resources {
